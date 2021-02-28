@@ -1,0 +1,119 @@
+body{
+	background-image: url('https://backgroundcheckall.com/wp-content/uploads/2017/12/architectural-portfolio-background-13.jpg');
+	background-size: cover;
+	height: 500px;
+}
+.image{
+	float: left;
+	margin-top: 150px;
+	margin-left: 200px;
+	border-radius: 30px;
+	box-shadow: 10px 10px 10px 10px;
+}
+
+.heads{
+	float: right;
+	margin-right: 250px;
+	color: #00ffff;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+}
+.met{
+	float: right;
+	margin-top: 0px;
+}
+.main ul li{
+	color: #ffff4d;
+	font-family: 'Akaya Telivigala', cursive;
+	display: inline-block;
+	padding-right: 20px;
+	font-size: 20px;
+
+}
+ul{
+	color: white;
+	float: right;
+	margin-top: 50px;
+
+	
+}
+ ul li{
+	color: #ffffff;
+	
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+.heads1{
+	margin-top: 500px;
+	font-family: 'Lobster', cursive;
+	color: #00ffff;
+	font-size: 40px;
+	margin-left: 400px;
+
+}
+.heads2{
+	font-family: 'Lobster', cursive;
+	color: #00ffff;
+	font-size: 40px;
+	
+}
+.heads3{
+	font-family: 'Lobster', cursive;
+	color: #00ffff;
+	font-size: 40px;
+	margin-left: 400px;
+}
+.edu{
+	color: #800000;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+	margin-left: 100px;
+
+}
+.para{
+	color: #800000;
+	font-size: 30px;
+}
+.eds{
+	background-image: url('https://www.friendshipcircle.org/blog/wp-content/uploads/2017/05/education-1959551_1920.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	height: 400px;
+	margin-left: -10px;
+	margin-right: -5px;
+}
+.eds1{
+	background-image: url('http://hpms.websitejungledemo.com/wp-content/uploads/2017/07/7_4MiddleSchool_03-1.png');
+	background-size: cover;
+	height: 400px;
+	opacity: 1.5;
+	margin-top: 0px;
+	margin-left: -10px;
+	margin-right: -10px;
+
+}
+.eds1, .eds2{
+	font-family: 'Lobster', cursive;
+	margin-top: -30px;
+}
+.first, .second, .third{
+	color: #800000;
+
+}
+
+.mis{
+	float: left;
+}
+.miss{
+	margin-left: 15px;
+}
+.mis1{
+	margin-bottom: 0px;
+}
+.eds2{
+	padding-left: 500px;
+	background-image: url('http://www.highwallpaper.com/wp-content/uploads/website-background-vintage-apple-retro-jpeg-the-best-ipad-1366x768.jpg');
+	background-size: cover;
+	margin-top: -30px;
+	margin-left: -10px;
+}
